@@ -1,0 +1,8 @@
+
+The initial position of the disk head:0 , value at intial head: 4383
+
+FCFS disk-scheduling algorithm head movements: 1988669
+LOOK disk-scheduling algorithm head movements: 1628820
+C-LOOK disk-scheduling algorithm head movements: 1628820
+
+Press enter to continue...
