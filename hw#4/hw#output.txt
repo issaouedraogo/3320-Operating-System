@@ -1,0 +1,7 @@
+
+The initial position of the disk head:0 , value at intial head: 4383
+
+SSTF disk-scheduling algorithm head movements: 4919
+SCAN disk-scheduling algorithm head movements: 4999
+CSCAN disk-scheduling algorithm head movements: 9998
+Press enter to continue...
